@@ -66,3 +66,5 @@ Reposta:
 *Caso não saiba o que é HATEOAS vou deixar aqui um [link](https://docs.microsoft.com/pt-br/azure/architecture/best-practices/api-design) com uma documentação da microsoft explicando sobre padrões RESTful*
 
 Após você conseguir ter acesso ao token, basta adiciona-lo nas requisições e já vai poder a explorar, API da nubank.
+
+[Passo anterior](GerandoCertificado)
