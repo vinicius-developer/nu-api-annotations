@@ -1,6 +1,6 @@
 # Gerando certificado
 
-Ela é feita para gerar um certificado de acesso remoto, esse certificado será um arquivo muito sensível, por isso, não é interessante que seja manipulado por ninguém a não ser o proprietário da conta.
+Esse endpoint é feito para gerar um certificado de acesso remoto, esse certificado será um arquivo muito sensível, por isso, não é interessante que seja manipulado por ninguém a não ser o proprietário da conta.
 
 Durante a documentação iremos realizar o processo utilizando o programa `openssl` disponível para Mac, Windows e Linux. 
 

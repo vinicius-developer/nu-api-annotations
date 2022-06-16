@@ -3,10 +3,16 @@ Essa documentação foi criada para ser anotações de desenvolvedores que se av
 
 ### Regulamentação 
 
-A alguns anos a NuBank postou no twitter que todas as suas APIs são abertas, mas não possuem documentação.
+Há alguns anos, a NuBank fez um post no twitter, dizendo que todas as suas APIs são abertas, mas não possuem documentação.
 
 [post no twitter](https://twitter.com/nubank/status/766665014161932288)
 
 ### Problemas
 
-Caso a NuBank considere que sua conta está agindo de forma irregular eles podem bloquear a sua conta por dois dias.
+Apesar das APIs serem abertas, caso a NuBank considere que sua conta está agindo de forma irregular ela pode ser bloqueada, então como dica evite fazer processos muito complexos que necessitam de muitos requests.
+
+### Agradecimentos
+
+Aqui uma partizinha para agrader a um projeto, que ajudou muito no ínicio da criação dessa documentação. 
+
+[pynubank](https://github.com/andreroggeri/pynubank)
