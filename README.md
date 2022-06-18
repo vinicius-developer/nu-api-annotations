@@ -1,4 +1,4 @@
-# nu-api-documentation
+# nu-api-annotations
 Essa documentação foi criada para ser anotações de desenvolvedores que se aventuraram a fazer lógica reversa na API da NuBank e resolveram escrever em algum lugar para que as próximas gerações de desenvolvedores não passem tanta dificuldade.
 
 ### Regulamentação 
