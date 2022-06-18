@@ -16,3 +16,5 @@ Apesar das APIs serem abertas, caso a NuBank considere que sua conta está agind
 Aqui uma partizinha para agrader a um projeto, que ajudou muito no ínicio da criação dessa documentação. 
 
 [pynubank](https://github.com/andreroggeri/pynubank)
+
+[Comece por aqui](app/Discovery)
