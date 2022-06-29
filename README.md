@@ -17,4 +17,4 @@ Aqui uma partizinha para agrader a um projeto, que ajudou muito no ínicio da cr
 
 [pynubank](https://github.com/andreroggeri/pynubank)
 
-[Comece por aqui](app/Discovery)
+[Comece por aqui](https://github.com/vinicius-developer/nu-api-annotations/blob/main/app/Discovery.md)
