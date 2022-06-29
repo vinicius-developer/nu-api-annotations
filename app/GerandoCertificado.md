@@ -118,7 +118,7 @@ openssl pkcs12 -export -in <nome_do_arquivo_com_certificado> -inkey <nome_do_arq
 
 Será pedido uma senha é recomendável que você insira uma senha forte, e que você também consiga se lembrar dela.
 
-[Próximo passo](Autenticacao.md)
+[Próximo passo](https://github.com/vinicius-developer/nu-api-annotations/blob/main/app/Autenticacao.md)
 
 
 
